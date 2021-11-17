@@ -26,7 +26,7 @@ print(f"{a} - {b} = {a-b}")
 
 Running the above code in the Python3 interpreter gives the following output.
 
-```txt
+```text
 Add two rational numbers
 1.0/2.0 + 1.0/8.0 = 5.0/8.0
 
@@ -39,7 +39,7 @@ TypeError: unsupported operand type(s) for -: 'Rational' and 'Rational'
 
 Ideally the output should be.
 
-```txt
+```text
 Add two rational numbers
 1/2 + 1/8 = 5/8
 
