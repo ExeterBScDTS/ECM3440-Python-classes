@@ -6,7 +6,7 @@
 
 ### IoT plant watering
 
-Reading the description of a simple computer controlled plant watering system at
+Study the description of a simple computer controlled plant watering system at
 
 <https://github.com/microsoft/IoT-For-Beginners/tree/main/2-farm/lessons/3-automated-plant-watering>
 
