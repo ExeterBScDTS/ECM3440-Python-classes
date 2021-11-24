@@ -19,3 +19,9 @@ ___________
 ```
 
 [Operator overloading exercise](operator-overloading)
+
+### Domain-Driven Design
+
+In DDD we identify *entities*, *values*, and *services*.
+
+[DDD services exercise](services)
