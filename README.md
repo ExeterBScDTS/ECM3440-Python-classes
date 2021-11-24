@@ -24,4 +24,4 @@ ___________
 
 In DDD we identify *entities*, *values*, and *services*.
 
-[DDD services exercise](services)
+[DDD services exercise](service)
